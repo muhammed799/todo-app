@@ -16,6 +16,6 @@ function validate() {
 
 }
 function redirect(){
-    location.replace("index.html");
+    location.replace("log.html");
 }
 
